@@ -1,11 +1,6 @@
 {
   "allowlists": {
-    "Holochain Foundation": {
-      "uhCkkKy29SGxRCh9WCCJfLrm4npFSYBQZoRSfBQgBZAY7h2hFPNG0": {
-        "actions": "all",
-        "appVersions": "all"
-      }
-    }
+    "Holochain Foundation": {}
   },
   "denylist": []
 }
