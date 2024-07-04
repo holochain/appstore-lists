@@ -1,0 +1,6 @@
+{
+  "allowlists": {
+    "Holochain Foundation": {}
+  },
+  "denylist": []
+}
