@@ -1,0 +1,12 @@
+{
+  "allowlists": {
+    "Holochain Foundation": {
+      "uhCkkY41BhM4gbaezdRZAXSsl4a8aqosdjNVmd0ehqra5IclqTwhM": {
+        "actions": "all",
+        "appVersions": "all",
+        "title": "kando"
+      }
+    }
+  },
+  "denylist": []
+}
