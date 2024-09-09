@@ -1,0 +1,12 @@
+{
+  "allowlists": {
+    "Holochain Foundation": {
+      "uhCkkK0gDfHuXQZXgw_d493sCaXVv9ld1pHSl9MmEFe4AqxFexuyx": {
+        "actions": "all",
+        "appVersions": "all",
+        "title": "Dummy Forum App"
+      }
+    }
+  },
+  "denylist": []
+}
