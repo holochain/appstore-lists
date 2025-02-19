@@ -1,0 +1,1 @@
+Appstore lists for 0.400.0-rc series of launcher.
