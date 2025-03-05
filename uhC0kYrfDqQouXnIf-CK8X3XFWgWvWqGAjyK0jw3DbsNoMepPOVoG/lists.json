@@ -3,11 +3,23 @@
     "Holochain Foundation": {
       "uhCkkzcsReqQsiRfvIT2kbuHyvuGhtl7iZ0K1Zmy0N4YuCP5jiaY0": {
         "actions": "all",
-        "appVersions": "all"
+        "appVersions": "all",
+        "title": "mewsfeed"
       },
       "uhCkk5qbCql24AcQ062L1Lwm4FCnDPAKL3ifsNbAS3Z70xspLqWc5": {
         "actions": "all",
-        "appVersions": "all"
+        "appVersions": "all",
+        "title": "KanDo"
+      },
+      "uhCkk0mYBwspq36wvtXblX8e6semwJnQrhhNcA595BlFNr4lUmGK-": {
+        "actions": "all",
+        "appVersions": "all",
+        "title": "Acorn"
+      },
+      "uhCkkEy7jT46NNdnmA39zX31zqjltTZDH8Bf7im037oULpL5N3YxG": {
+        "actions": "all",
+        "appVersions": "all",
+        "title": "talking-stickies"
       }
     }
   },
